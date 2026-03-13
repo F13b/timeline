@@ -11,6 +11,8 @@
 
 После успешного деплоя сайт будет доступен по URL из шага `deploy` в Actions.
 
+- Для project-репозитория: `https://<username>.github.io/<repo>/`
+- Для user/org-репозитория `<username>.github.io`: `https://<username>.github.io/`
 
 
 ## Локальный запуск
